@@ -18,6 +18,7 @@
 	</parent>
 
 	<modules>
+		<module>eureka</module>
 		<module>spring-boot-grpc-common</module>
 		<module>spring-boot-grpc-server</module>
         <module>spring-boot-grpc-client</module>
